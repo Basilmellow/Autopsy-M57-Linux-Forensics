@@ -59,13 +59,6 @@ An employee of a fictional company, M57 Patents, is suspected of leaking sensiti
 
 Find screenshots in [`/Evidence_Screenshots`](./Evidence_Screenshots)
 
-| Screenshot | Description |
-|------------|-------------|
-| `case-setup.png` | New Autopsy case created |
-| `deleted-files.png` | Recovered deleted documents |
-| `usb-history.png` | Registry and device logs |
-| `timeline-view.png` | Full event correlation |
-
 
 ## 📑 Reports
 
