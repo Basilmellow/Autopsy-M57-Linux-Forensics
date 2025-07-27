@@ -1,0 +1,24 @@
+
+MindSec Digital Forensics Lab - Case Notes
+
+Case Name: M57 Jean Insider Threat Investigation
+Date Opened: 2025-07-27
+Investigator: Mohamed Basil (MindSec)
+Tool Used: Autopsy (Linux version)
+Disk Image: jean.E01 from Digital Corpora
+
+Initial Observations:
+- USB activity observed in system logs.
+- Deleted files discovered in User's Documents folder.
+- File sharing websites accessed around the time of file deletion.
+
+Evidence Identified:
+- Suspicious .exe file in Downloads.
+- Recently deleted Word/Excel files.
+- USB metadata traces (SanDisk).
+
+Timeline Summary:
+- USB connected at 13:23:45
+- File accessed: confidential_client_list.xls at 13:24:10
+- File deleted: 13:25:00
+- USB disconnected: 13:25:10
